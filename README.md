@@ -36,7 +36,7 @@ When you have npm installed:
 ### Setup
 
 1. Clone this repo
-```git clone https://github.com/JLowe-N/CF-Workers-Linktree.git```
+```git clone https://github.com/coding-to-music/CF-Workers-Linktree.git```
 2. Configure with your Workers account credentials.
 ```wrangler config```
 3. Update the .toml file with you account_id and you can update worker "name" field as desired.
@@ -57,7 +57,7 @@ project.
 
 1. Returns Links as a JSON Response when a GET request is made to [/links](https://linktree.justinlowen.workers.dev/links)
 
-2. Returns a [Linktree style page](https://linktree.justinlowen.workers.dev/justin) when a GET request is made to any other path.
+2. Returns a [Linktree style page](https://linktree.coding-to-music.workers.dev/info) when a GET request is made to any other path.
     - Retrieves static HTML template from https://static-links-page.signalnerve.workers.dev
     - Uses the links provided at /links
     - HTMLRewriter class is used to add these links to the template
@@ -83,14 +83,9 @@ image was also added to further customize the page.
 
 ## License
 
-My contributions are distributed under the MIT License. See `LICENSE_MIT` for more information.
+Distributed under the MIT License. See `LICENSE_MIT` for more information.
 
-## Contact
-Justin Lowen: 
-- [https://jlowe-n.github.io/](https://jlowe-n.github.io/)
-- [Justin.G.Lowen@gmail.com](mailto:Justin.G.Lowen@gmail.com)
-
-Project Link: [https://github.com/JLowe-N/CF-Workers-Linktree](https://github.com/JLowe-N/CF-Workers-Linktree)
+Project Link: [https://github.com/coding-to-music/CF-Workers-Linktree](https://github.com/JLowe-N/CF-Workers-Linktree)
 
 ## Acknowledgements
 - [Cloudflare](https://www.cloudflare.com/)
