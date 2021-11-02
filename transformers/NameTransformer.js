@@ -1,7 +1,7 @@
 /**
  * Transforms the h1#name to the username
  */
-const username = "@JustinLowen"
+const username = "Tom Connors"
 
 class NameTransformer {
 
