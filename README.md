@@ -1,5 +1,9 @@
 # Cloudflare Worker for Implementing Linktree Style Page
 
+This fork builds on the excellent project by Justin Lowen: https://linktree.justinlowen.workers.dev/
+
+His source code: https://github.com/JLowe-N/CF-Workers-Linktree
+
 This application is an instance of a [Cloudflare Worker](https://workers.cloudflare.com/)
 which allows you to deploy a serverless JavaScript application on their global CDN.
 The worker here was started using the Wrangler CLI for Cloudflare workers to generate
@@ -90,3 +94,4 @@ Project Link: [https://github.com/coding-to-music/CF-Workers-Linktree](https://g
 ## Acknowledgements
 - [Cloudflare](https://www.cloudflare.com/)
 - [Cloudflare Workers](https://workers.cloudflare.com/)
+- [Justin Lowen Original](https://github.com/JLowe-N/CF-Workers-Linktree)

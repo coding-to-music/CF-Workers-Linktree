@@ -10,6 +10,14 @@ function getLinksEndpoint() {
             "url": "https://github.com/coding-to-music/CF-Workers-Linktree"
         },
         {
+            "name": "This is what I am working on",
+            "url": "https://pandemic-overview.readthedocs.io/en/latest/Help-about/help.html#this-is-what-i-am-working-on"
+        },
+        {
+            "name": "My Searchable Issues - lots of great technical info",
+            "url": "https://github.com/coding-to-music/coding-to-music.github.io/issues"
+        },
+        {
             "name": "Essay: Summer Camp for all rather than UBI",
             "url": "https://medium.com/@connors.tom/thought-experiment-summer-camp-for-all-rather-than-universal-basic-income-a1f2eb1df017"
         },
@@ -21,14 +29,6 @@ function getLinksEndpoint() {
             "name": "About Tom Connors",
             "url": "https://pandemic-overview.readthedocs.io/en/latest/Help-about/help.html"
         },
-        {
-            "name": "This is what I am working on",
-            "url": "https://pandemic-overview.readthedocs.io/en/latest/Help-about/help.html#this-is-what-i-am-working-on"
-        },
-        {
-            "name": "My Searchable Issues - lots of great technical info",
-            "url": "https://github.com/coding-to-music/coding-to-music.github.io/issues"
-        }
     ]
 }
 
