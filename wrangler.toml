@@ -4,3 +4,4 @@ account_id = "32c893914da09e7cb225d5e9c6114f45"
 workers_dev = true
 route = ""
 zone_id = ""
+compatibility_date = "2021-11-02"
